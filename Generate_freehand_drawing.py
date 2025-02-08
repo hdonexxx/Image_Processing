@@ -2,7 +2,7 @@ from PIL import Image
 import numpy as np
 
 # 原始图片路径
-path = 'F:\图片\人脸\\'
+path = 'F:\Face\\'
 name = 'output.jpg'
 original_image_path = path + name
 # 要生成的手绘图片路径，可自定义
